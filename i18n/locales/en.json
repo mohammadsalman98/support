@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Support",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "supportPage": {
+    "badge": "Reliable Food Service Support",
+    "title": "Support That Keeps Food Service Operations Running Smoothly",
+    "subtitle": "Miqdar helps facilities, institutions, and event teams manage food service operations with a modern platform built for clarity, speed, and control.",
+    "description": "Miqdar is a modern ERP system designed to streamline food service operations for large facilities. It brings operational and administrative workflows together in one easy-to-use platform, helping teams work more efficiently and make faster decisions.",
+    "extra": "Whether you are managing feeding services for daily operations or coordinating support for large events, Miqdar gives your team the structure and visibility needed to stay organized and deliver reliable service.",
+    "heroNote": "Our support experience is designed to help your team solve issues quickly, understand workflows clearly, and keep service operations moving without interruption.",
+    "ctaPrimary": "Get Support",
+    "ctaSecondary": "Learn More",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "How Miqdar Supports Your Team",
+    "feature1Title": "Operational Guidance",
+    "feature1Text": "Get help with platform usage, process understanding, and day-to-day workflow support.",
+    "feature2Title": "Event Feeding Coordination",
+    "feature2Text": "Manage feeding support for events with better planning, smoother execution, and clearer communication.",
+    "feature3Title": "Faster Issue Resolution",
+    "feature3Text": "Reduce delays with structured support that helps teams solve operational questions efficiently.",
+
+    "sectionTitle": "Built for Demanding Food Service Environments",
+    "sectionText": "Miqdar is built for organizations that need dependable food service management across multiple teams, facilities, and service points. It supports operational continuity while improving coordination and visibility.",
+
+    "contactTitle": "Need help from Miqdar?",
+    "contactText": "Our support team is ready to assist with platform questions, operational guidance, and service-related inquiries so your team can work with confidence.",
+
+    "statsTitle": "Support You Can Rely On",
+    "stat1Number": "24/7",
+    "stat1Label": "Operational visibility",
+    "stat2Number": "1 Platform",
+    "stat2Label": "Unified workflows",
+    "stat3Number": "Large Scale",
+    "stat3Label": "Facility-ready support",
+
+    "helpTitle": "What can we help you with?",
+    "help1": "Platform and workflow guidance",
+    "help2": "Food service operational support",
+    "help3": "Event feeding coordination assistance",
+    "help4": "General service and support inquiries"
+  }
+}
