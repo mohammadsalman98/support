@@ -42,6 +42,9 @@ export function generateStaticParams() {
     { lang: "hi" },
     { lang: "bn" },
     { lang: "ml" },
+    { lang: "id" },
+    { lang: "tr" },
+    { lang: "sw" },
   ];
 }
 

@@ -15,6 +15,9 @@ const labels: Record<Language, string> = {
   hi: "हिन्दी",
   bn: "বাংলা",
   ml: "മലയാളം",
+  id: "Bahasa Indonesia",
+  tr: "Türkçe",
+  sw: "Kiswahili",
 };
 
 const shortLabels: Record<Language, string> = {
@@ -24,8 +27,10 @@ const shortLabels: Record<Language, string> = {
   hi: "HI",
   bn: "BN",
   ml: "ML",
+  id: "ID",
+  tr: "TR",
+  sw: "SW",
 };
-
 export function LanguageSwitcher({ currentLang }: Props) {
   const router = useRouter();
   const pathname = usePathname();

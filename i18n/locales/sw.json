@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Msaada",
+    "about": "Kuhusu",
+    "contact": "Mawasiliano"
+  },
+  "supportPage": {
+    "badge": "Msaada wa Huduma ya Chakula wa Kuaminika",
+    "title": "Msaada Unaowezesha Uendeshaji wa Huduma za Chakula Kuendelea Vizuri",
+    "subtitle": "Miqdar husaidia vituo, taasisi, na timu za matukio kusimamia shughuli za huduma za chakula kupitia jukwaa la kisasa linalotoa uwazi, kasi, na udhibiti.",
+    "description": "Miqdar ni mfumo wa kisasa wa ERP ulioundwa kurahisisha shughuli za huduma za chakula kwa vituo vikubwa. Unaunganisha michakato ya uendeshaji na kiutawala katika jukwaa moja rahisi kutumia, na kusaidia timu kufanya kazi kwa ufanisi zaidi na kufanya maamuzi kwa haraka zaidi.",
+    "extra": "Iwe unasimamia huduma za chakula za kila siku au unaratibu msaada kwa matukio makubwa, Miqdar huipa timu yako mpangilio na mwonekano unaohitajika ili kubaki imepangwa na kutoa huduma ya kuaminika.",
+    "heroNote": "Huduma yetu ya msaada imeundwa kusaidia timu yako kutatua changamoto haraka, kuelewa mtiririko wa kazi kwa uwazi, na kuhakikisha shughuli zinaendelea bila usumbufu.",
+    "ctaPrimary": "Pata Msaada",
+    "ctaSecondary": "Jifunze Zaidi",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "Jinsi Miqdar Inavyoiunga Mkono Timu Yako",
+    "feature1Title": "Mwongozo wa Uendeshaji",
+    "feature1Text": "Pata msaada wa matumizi ya jukwaa, uelewa wa michakato, na usaidizi wa mtiririko wa kazi wa kila siku.",
+    "feature2Title": "Uratibu wa Msaada wa Chakula kwa Matukio",
+    "feature2Text": "Simamia msaada wa chakula kwa matukio kwa upangaji bora, utekelezaji laini zaidi, na mawasiliano yaliyo wazi.",
+    "feature3Title": "Utatuzi wa Matatizo kwa Haraka",
+    "feature3Text": "Punguza ucheleweshaji kwa msaada uliopangwa unaosaidia timu kutatua maswali ya kiutendaji kwa ufanisi.",
+
+    "sectionTitle": "Imejengwa kwa Mazingira ya Huduma za Chakula yenye Mahitaji Makubwa",
+    "sectionText": "Miqdar imeundwa kwa mashirika yanayohitaji usimamizi wa huduma za chakula unaotegemewa katika timu nyingi, vituo mbalimbali, na maeneo tofauti ya huduma. Inasaidia mwendelezo wa shughuli huku ikiboresha uratibu na mwonekano.",
+
+    "contactTitle": "Unahitaji msaada kutoka Miqdar?",
+    "contactText": "Timu yetu ya msaada iko tayari kusaidia kwa maswali ya jukwaa, mwongozo wa kiutendaji, na mahitaji yanayohusiana na huduma ili timu yako ifanye kazi kwa kujiamini.",
+
+    "statsTitle": "Msaada Unaoweza Kuutegemea",
+    "stat1Number": "24/7",
+    "stat1Label": "Mwonekano wa uendeshaji",
+    "stat2Number": "Jukwaa 1",
+    "stat2Label": "Mtiririko wa kazi uliounganishwa",
+    "stat3Number": "Kiwango Kikubwa",
+    "stat3Label": "Inafaa kwa vituo vikubwa",
+
+    "helpTitle": "Tunaweza kukusaidia kwa nini?",
+    "help1": "Mwongozo wa jukwaa na mtiririko wa kazi",
+    "help2": "Msaada wa shughuli za huduma za chakula",
+    "help3": "Msaada wa uratibu wa chakula kwa matukio",
+    "help4": "Maswali ya jumla ya huduma na msaada"
+  }
+}

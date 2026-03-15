@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Dukungan",
+    "about": "Tentang",
+    "contact": "Kontak"
+  },
+  "supportPage": {
+    "badge": "Dukungan Layanan Makanan yang Andal",
+    "title": "Dukungan yang Menjaga Operasional Layanan Makanan Tetap Lancar",
+    "subtitle": "Miqdar membantu fasilitas, institusi, dan tim acara mengelola operasional layanan makanan melalui platform modern yang memberikan kejelasan, kecepatan, dan kendali.",
+    "description": "Miqdar adalah sistem ERP modern yang dirancang untuk menyederhanakan operasional layanan makanan bagi fasilitas besar. Sistem ini menyatukan alur kerja operasional dan administratif dalam satu platform yang mudah digunakan, membantu tim bekerja lebih efisien dan mengambil keputusan lebih cepat.",
+    "extra": "Baik Anda mengelola layanan makanan harian maupun mengoordinasikan dukungan untuk acara besar, Miqdar memberi tim Anda struktur dan visibilitas yang dibutuhkan agar tetap terorganisir dan memberikan layanan yang andal.",
+    "heroNote": "Pengalaman dukungan kami dirancang untuk membantu tim Anda menyelesaikan masalah dengan cepat, memahami alur kerja dengan jelas, dan menjaga operasional layanan tetap berjalan tanpa gangguan.",
+    "ctaPrimary": "Dapatkan Dukungan",
+    "ctaSecondary": "Pelajari Lebih Lanjut",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "Bagaimana Miqdar Mendukung Tim Anda",
+    "feature1Title": "Panduan Operasional",
+    "feature1Text": "Dapatkan bantuan terkait penggunaan platform, pemahaman proses, dan dukungan alur kerja harian.",
+    "feature2Title": "Koordinasi Dukungan Konsumsi Acara",
+    "feature2Text": "Kelola dukungan konsumsi untuk acara dengan perencanaan yang lebih baik, pelaksanaan yang lebih lancar, dan komunikasi yang lebih jelas.",
+    "feature3Title": "Penyelesaian Masalah Lebih Cepat",
+    "feature3Text": "Kurangi keterlambatan dengan dukungan terstruktur yang membantu tim menyelesaikan pertanyaan operasional secara efisien.",
+
+    "sectionTitle": "Dibangun untuk Lingkungan Layanan Makanan yang Menuntut",
+    "sectionText": "Miqdar dibangun untuk organisasi yang membutuhkan manajemen layanan makanan yang andal di berbagai tim, fasilitas, dan titik layanan. Miqdar mendukung kesinambungan operasional sambil meningkatkan koordinasi dan visibilitas.",
+
+    "contactTitle": "Butuh bantuan dari Miqdar?",
+    "contactText": "Tim dukungan kami siap membantu terkait pertanyaan platform, panduan operasional, dan kebutuhan layanan agar tim Anda dapat bekerja dengan percaya diri.",
+
+    "statsTitle": "Dukungan yang Dapat Anda Andalkan",
+    "stat1Number": "24/7",
+    "stat1Label": "Visibilitas operasional",
+    "stat2Number": "1 Platform",
+    "stat2Label": "Alur kerja terpadu",
+    "stat3Number": "Skala Besar",
+    "stat3Label": "Siap untuk fasilitas besar",
+
+    "helpTitle": "Apa yang bisa kami bantu?",
+    "help1": "Panduan platform dan alur kerja",
+    "help2": "Dukungan operasional layanan makanan",
+    "help3": "Bantuan koordinasi konsumsi acara",
+    "help4": "Pertanyaan umum layanan dan dukungan"
+  }
+}

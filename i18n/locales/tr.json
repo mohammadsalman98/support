@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Destek",
+    "about": "Hakkında",
+    "contact": "İletişim"
+  },
+  "supportPage": {
+    "badge": "Güvenilir Yemek Hizmeti Desteği",
+    "title": "Yemek Hizmeti Operasyonlarının Sorunsuz Yürümesini Sağlayan Destek",
+    "subtitle": "Miqdar; tesislerin, kurumların ve etkinlik ekiplerinin yemek hizmeti operasyonlarını netlik, hız ve kontrol sağlayan modern bir platform üzerinden yönetmesine yardımcı olur.",
+    "description": "Miqdar, büyük tesisler için yemek hizmeti operasyonlarını kolaylaştırmak amacıyla tasarlanmış modern bir ERP sistemidir. Operasyonel ve idari süreçleri tek ve kullanımı kolay bir platformda birleştirerek ekiplerin daha verimli çalışmasına ve daha hızlı karar almasına yardımcı olur.",
+    "extra": "İster günlük yemek hizmetlerini yönetiyor olun ister büyük etkinlikler için destek koordinasyonu sağlıyor olun, Miqdar ekibinize düzenli kalmak ve güvenilir hizmet sunmak için gereken yapı ve görünürlüğü sağlar.",
+    "heroNote": "Destek deneyimimiz, ekibinizin sorunları hızlıca çözmesine, iş akışlarını net şekilde anlamasına ve hizmet operasyonlarını kesintisiz sürdürmesine yardımcı olacak şekilde tasarlanmıştır.",
+    "ctaPrimary": "Destek Al",
+    "ctaSecondary": "Daha Fazla Bilgi",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "Miqdar Ekibinizi Nasıl Destekler",
+    "feature1Title": "Operasyonel Rehberlik",
+    "feature1Text": "Platform kullanımı, süreçlerin anlaşılması ve günlük iş akışı desteği konusunda yardım alın.",
+    "feature2Title": "Etkinlik Yemek Koordinasyonu",
+    "feature2Text": "Etkinlikler için yemek desteğini daha iyi planlama, daha sorunsuz uygulama ve daha açık iletişimle yönetin.",
+    "feature3Title": "Daha Hızlı Sorun Çözümü",
+    "feature3Text": "Yapılandırılmış destekle gecikmeleri azaltın ve ekiplerin operasyonel soruları verimli şekilde çözmesine yardımcı olun.",
+
+    "sectionTitle": "Zorlu Yemek Hizmeti Ortamları İçin Tasarlandı",
+    "sectionText": "Miqdar, birden fazla ekip, tesis ve hizmet noktasında güvenilir yemek hizmeti yönetimine ihtiyaç duyan kuruluşlar için geliştirilmiştir. Operasyonel sürekliliği desteklerken koordinasyonu ve görünürlüğü artırır.",
+
+    "contactTitle": "Miqdar'dan yardıma mı ihtiyacınız var?",
+    "contactText": "Destek ekibimiz platform soruları, operasyonel rehberlik ve hizmetle ilgili ihtiyaçlar konusunda yardımcı olmaya hazırdır.",
+
+    "statsTitle": "Güvenebileceğiniz Destek",
+    "stat1Number": "24/7",
+    "stat1Label": "Operasyonel görünürlük",
+    "stat2Number": "1 Platform",
+    "stat2Label": "Birleşik iş akışları",
+    "stat3Number": "Büyük Ölçek",
+    "stat3Label": "Büyük tesislere uygun",
+
+    "helpTitle": "Size nasıl yardımcı olabiliriz?",
+    "help1": "Platform ve iş akışı rehberliği",
+    "help2": "Yemek hizmeti operasyon desteği",
+    "help3": "Etkinlik yemek koordinasyon desteği",
+    "help4": "Genel hizmet ve destek soruları"
+  }
+}
