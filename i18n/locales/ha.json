@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Tallafi",
+    "about": "Game da Miqdar",
+    "contact": "Tuntuɓa"
+  },
+  "supportPage": {
+    "badge": "Amintaccen Tallafin Ayyukan Abinci",
+    "title": "Tallafin da ke Tabbatar da Gudanar da Ayyukan Abinci Cikin Sauƙi",
+    "subtitle": "Miqdar na taimaka wa cibiyoyi, manyan wurare, da ƙungiyoyin taruka wajen sarrafa ayyukan abinci ta hanyar dandamali na zamani da ke ba da tsari, sauri, da iko.",
+    "description": "Miqdar tsarin ERP ne na zamani da aka tsara don sauƙaƙa ayyukan abinci a manyan cibiyoyi. Yana haɗa ayyukan gudanarwa da na aiki a dandamali guda mai sauƙin amfani.",
+    "extra": "Ko kana kula da ayyukan abinci na yau da kullum ko kana tsara tallafi don manyan taruka, Miqdar na bai wa ƙungiyarka tsari da hangen nesa da ake buƙata domin bayar da ingantaccen sabis.",
+    "heroNote": "An tsara tsarin tallafinmu domin taimaka wa ƙungiyarku warware matsaloli da sauri, fahimtar hanyoyin aiki a sarari, da ci gaba da ayyuka ba tare da katsewa ba.",
+    "ctaPrimary": "Samu Tallafi",
+    "ctaSecondary": "Ƙara Koyo",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "Yadda Miqdar Ke Tallafawa Ƙungiyarku",
+    "feature1Title": "Jagorancin Aiki",
+    "feature1Text": "Samu taimako wajen amfani da dandamali, fahimtar tsari, da tallafin aikin yau da kullum.",
+    "feature2Title": "Tsara Tallafin Ciyarwar Taro",
+    "feature2Text": "Gudanar da tallafin abinci na taruka tare da kyakkyawan tsari, aiwatarwa mai sauƙi, da sadarwa a sarari.",
+    "feature3Title": "Saurin Magance Matsaloli",
+    "feature3Text": "Rage jinkiri ta hanyar tsararren tallafi wanda ke taimaka wa ƙungiyoyi warware tambayoyin aiki cikin inganci.",
+
+    "sectionTitle": "An Gina Don Muhallin Ayyukan Abinci Masu Buƙata",
+    "sectionText": "An gina Miqdar domin ƙungiyoyi da ke buƙatar ingantaccen sarrafa ayyukan abinci a sassa, wurare, da wuraren hidima da dama.",
+
+    "contactTitle": "Kana buƙatar taimako daga Miqdar?",
+    "contactText": "Ƙungiyar tallafinmu a shirye take don taimakawa da tambayoyin dandamali, jagorancin aiki, da buƙatun sabis.",
+
+    "statsTitle": "Tallafin da Za Ka Iya Dogaro da Shi",
+    "stat1Number": "24/7",
+    "stat1Label": "Hangen aikin yau da kullum",
+    "stat2Number": "Dandamali 1",
+    "stat2Label": "Haɗaɗɗen hanyoyin aiki",
+    "stat3Number": "Babban Sikeli",
+    "stat3Label": "Ya dace da manyan wurare",
+
+    "helpTitle": "Ta yaya za mu taimaka?",
+    "help1": "Jagoranci kan dandamali da hanyoyin aiki",
+    "help2": "Tallafin ayyukan abinci",
+    "help3": "Taimako wajen tsara ciyarwar taro",
+    "help4": "Tambayoyi na gaba ɗaya game da sabis da tallafi"
+  }
+}

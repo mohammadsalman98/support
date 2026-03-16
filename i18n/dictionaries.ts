@@ -11,6 +11,26 @@ import ml from "./locales/ml.json";
 import id from "./locales/id.json";
 import tr from "./locales/tr.json";
 import sw from "./locales/sw.json";
+import ha from "./locales/ha.json";
+import ff from "./locales/ff.json";
+import kr from "./locales/kr.json";
+
+// const dictionaries: Record<Language, Dictionary> = {
+//   en: en as Dictionary,
+//   ar: ar as Dictionary,
+//   ur: ur as Dictionary,
+//   hi: hi as Dictionary,
+//   bn: bn as Dictionary,
+//   ml: ml as Dictionary,
+//   id: id as Dictionary,
+//   tr: tr as Dictionary,
+//   sw: sw as Dictionary,
+//   ha: ha as Dictionary,
+//   ff: ff as Dictionary,
+//   kr: kr as Dictionary,
+
+// };
+
 
 export type Dictionary = {
   nav: {
@@ -54,6 +74,7 @@ export type Dictionary = {
   };
 };
 
+
 const dictionaries: Record<Language, Dictionary> = {
   en: en as Dictionary,
   ar: ar as Dictionary,
@@ -64,6 +85,9 @@ const dictionaries: Record<Language, Dictionary> = {
   id: id as Dictionary,
   tr: tr as Dictionary,
   sw: sw as Dictionary,
+  ha: ha as Dictionary,
+  ff: ff as Dictionary,
+  kr: kr as Dictionary,
 };
 
 export function getDictionary(lang: string): Dictionary {
