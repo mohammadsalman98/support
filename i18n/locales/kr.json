@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "support": "Taimako",
+    "about": "Gam Miqdar",
+    "contact": "Tuntuɓe"
+  },
+  "supportPage": {
+    "badge": "Taimako Curoso be Aiki Nyamdu",
+    "title": "Taimako ngəla Aiki Nyamdu kəlaa do nguwu",
+    "subtitle": "Miqdar wuji kəla wuraram, kungiyaram, da tim kaibəram kəlaa nyamdu-aiki e platform zamani ngəla bayyana, sauri, da kulawa.",
+    "description": "Miqdar tsari ERP zamani ne ngəla tsara kəlaa sauƙaƙa aiki nyamdu e manyan wurare. Yana haɗa aiki ɗowu da gudanarwa e platform gooto ngəla sauƙin anfani.",
+    "extra": "Ko ka na kula da nyamdu-aiki na kullum ko ka na tsara tallafi ngam manyan taruka, Miqdar na ba goɓɓo tsari da gani ngəla ake bukata ngam aiki curoso.",
+    "heroNote": "Tsarin tallafinmu an tsara shi ngam taimaka wa goɓɓo warware matsala da sauri, fahimtar hanyoyin aiki, da cigaba da sabis ba tare da tangarda ba.",
+    "ctaPrimary": "Samu Taimako",
+    "ctaSecondary": "Ƙara Sani",
+    "logoLabel": "MIQDAR",
+
+    "featuresTitle": "Yadda Miqdar ke Taimaka wa Goɓɓo",
+    "feature1Title": "Jagorar Aiki",
+    "feature1Text": "Samu taimako kan anfani da platform, fahimtar tsari, da tallafin aikin kullum.",
+    "feature2Title": "Tsarin Ciyarwa na Taro",
+    "feature2Text": "Gudanar da tallafin ciyarwa na taro tare da kyakkyawan tsari, aiwatarwa mai laushi, da sadarwa a sarari.",
+    "feature3Title": "Saurin Warware Matsala",
+    "feature3Text": "Rage jinkiri ta tallafi mai tsari ngəla ke taimaka wa ƙungiyoyi warware tambayoyin aiki cikin inganci.",
+
+    "sectionTitle": "An Gina Shi Domin Muhallin Aikin Nyamdu Mai Buƙata",
+    "sectionText": "Miqdar an gina shi domin kungiyoyi ngəla ke buƙatar sarrafa aikin nyamdu cikin dogaro a sassa, wurare, da matatun sabis da dama.",
+
+    "contactTitle": "Kana buƙatar taimako daga Miqdar?",
+    "contactText": "Kungiyar tallafinmu tana shirye domin taimaka da tambayoyin platform, jagorar aiki, da buƙatun sabis.",
+
+    "statsTitle": "Taimako ngəla za ka dogara da shi",
+    "stat1Number": "24/7",
+    "stat1Label": "Ganin aiki",
+    "stat2Number": "Platform 1",
+    "stat2Label": "Hanyoyin aiki haɗe",
+    "stat3Number": "Babban Sikeli",
+    "stat3Label": "Ya dace da manyan wurare",
+
+    "helpTitle": "Ta yaya za mu taimaka?",
+    "help1": "Jagora kan platform da hanyoyin aiki",
+    "help2": "Tallafin aikin nyamdu",
+    "help3": "Taimako wajen tsara ciyarwar taro",
+    "help4": "Tambayoyi na gama gari kan sabis da tallafi"
+  }
+}
